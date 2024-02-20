@@ -1,5 +1,5 @@
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=CallMeL&countColor=%23263759)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeL&hide=jupyter%20notebook&layout=compact&theme=nightowl&langs_count=8)
 
